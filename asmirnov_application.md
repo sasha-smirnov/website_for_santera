@@ -54,7 +54,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-HTML, CSS, Python, Photoshop
+HTML, CSS, Python, Figma, Visual Studio
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
